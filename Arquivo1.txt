@@ -1,0 +1,4 @@
+Este é um arquivo de aula
+clear
+exit
+cd ..
